@@ -101,7 +101,7 @@ Select `coordinator_agent` and start chatting!
 
 What I Learned Building This
 
-- How to build a **multi-agent AI system** using Google ADK
+- How to build a **multi-agent AI system**
 - How agents **delegate tasks** to specialist sub-agents
 - How **agent coordination** works in real AI applications
 - Debugging agent communication and prompt engineering
