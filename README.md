@@ -1,6 +1,6 @@
 Ai travel planner portfolio · MD
 # ✈ AI Travel Planner — Multi-Agent System
-### Portfolio Project Write-Up | Kithuni Perera
+### By Kithuni Perera
  
 ---
  
