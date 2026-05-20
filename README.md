@@ -99,4 +99,4 @@ Most AI portfolio projects are one of two things: a wrapper around a single API 
  
 ---
  
-*Built by Kithuni Perera as a portfolio project. Inspired by the Google Cloud ADK + A2A lab.*
+*Built by Kithuni Perera . Inspired by the Google Cloud ADK + A2A lab.*
