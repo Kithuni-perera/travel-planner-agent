@@ -8,8 +8,7 @@ Ai travel planner portfolio · MD
  
 Travel planning is genuinely hard. A typical trip requires a traveler to juggle three completely separate mental tasks at once: figuring out *what* to do each day, deciding *where* to sleep, and calculating *how much* it will all cost — all while keeping those three things consistent with each other. Most travelers switch between five or six different tabs, apps, and spreadsheets to pull this together. The result is either an overwhelming pile of bookmarks that never becomes a real plan, or a plan that turns out to be wildly over budget only after hours of work.
  
-There is no single tool that coordinates these three tasks intelligently. Search engines return generic listicles. Booking apps focus on transactions, not planning. Chatbots answer one question at a time. **Nobody had built a system that treats travel planning as the multi-dimensional, interconnected problem it actually is** — until this project.
- 
+There is no single tool that coordinates these three tasks intelligently. Search engines return generic listicles. Booking apps focus on transactions, not planning. Chatbots answer one question at a time. 
 ---
  
 ## Why I Chose to Build This
